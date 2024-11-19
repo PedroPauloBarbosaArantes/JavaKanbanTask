@@ -1,2 +1,2 @@
-# JavaKanbanTask
+# JavaKanbanTarefas
 Trabalho da faculdade
